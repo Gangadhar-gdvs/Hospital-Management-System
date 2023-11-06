@@ -1,1 +1,0 @@
-# Web-Medical-Management-System
